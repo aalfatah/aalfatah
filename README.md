@@ -18,7 +18,7 @@ I'm an IT Helpdesk and Odoo ERP Developer with expertise in building shipping ag
 <h1 align="center">📈 Github Statistic 📊</h1>
 <p align="center">
   <a href="https://github.com/aalfatah">
-    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aalfatah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aalfatah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <!-- <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aalfatah&layout=compact&langs_count=10&theme=gotham"/> -->
     <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=aalfatah&theme=gotham"/>
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=aalfatah&theme=monokai&column=4&margin-w=10&margin-h=10"/>
