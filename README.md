@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alfa
+# Hi there 👋
 
 ![Alfa](img/github-header-banner.png)
 
@@ -18,8 +18,8 @@ I'm an IT Helpdesk and Odoo ERP Developer with expertise in building shipping ag
 <h1 align="center">📈 Github Statistic 📊</h1>
 <p align="center">
   <a href="https://github.com/aalfatah">
-    <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aalfatah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <!-- <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aalfatah&layout=compact&langs_count=10&theme=gotham"/> -->
+    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aalfatah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aalfatah&layout=compact&langs_count=10&theme=gotham"/>
     <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=aalfatah&theme=gotham"/>
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=aalfatah&theme=monokai&column=4&margin-w=10&margin-h=10"/>
   </a>
@@ -36,10 +36,10 @@ I'm an IT Helpdesk and Odoo ERP Developer with expertise in building shipping ag
 </p>
 
 ## 💼 Experience Highlights
-- ✅ Successfully implemented Odoo ERP shipping agencies
-- ✅ Reduced manual documentation processing by 70% through automation
-- ✅ Developed a custom internal system integrated with a major shipping lines
-- ✅ Provided IT support for users
+- Successfully implemented Odoo ERP shipping agencies
+- Reduced manual documentation processing by 70% through automation
+- Developed a custom internal system integrated with a major shipping lines
+- Provided IT support for users
 
 ## 📫 Let's Connect!
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@aalfa) ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aalfatah__)
@@ -52,7 +52,7 @@ I'm an IT Helpdesk and Odoo ERP Developer with expertise in building shipping ag
 
 <!-- <div align="center">
 
-### 🏆 Badges
+### 🏆 Badges ✅
 <img src="https://img.shields.io/badge/Odoo-Competent-orange?logo=odoo">
 <img src="https://img.shields.io/badge/IT-Helpdesk%20Support-blue?logo=python">
 <img src="https://img.shields.io/badge/Shipping-Agency%20Solutions-green?logo=boat">
