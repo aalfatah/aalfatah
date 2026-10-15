@@ -9,7 +9,7 @@ I'm an IT Helpdesk and Odoo ERP Developer with expertise in building shipping ag
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,docker,python,kotlin,androidstudio,css,js,postgresql,ubuntu,php,bootstrap,linux,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,docker,gcp,react,vue,python,kotlin,androidstudio,css,js,postgresql,ubuntu,php,bootstrap,linux,laravel,mysql" />
   </a>
 </p>
 
